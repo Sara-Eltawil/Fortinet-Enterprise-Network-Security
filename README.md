@@ -4,7 +4,7 @@
 This repository contains the complete design, implementation, and verification of a secure multi-site enterprise network built on **PNETLab**. The architecture features FortiGate Next-Generation Firewalls (NGFW) in High Availability (HA), Cisco Core/Access Switches, and Routers.
 
 ## 📐 Network Topology
-![Topology](Topologies/pnet_lab_topology.png)
+![Topology](Topology/Topology.png)
 
 ## 📊 IP Addressing & VLAN Scheme
 - **HQ Site:**
